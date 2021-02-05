@@ -291,4 +291,4 @@ Client.on("message",message =>{
         }
    
     });
-Client.login(process0.en.TOKEN);
+Client.login(process.en.TOKEN);
