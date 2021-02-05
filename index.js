@@ -291,6 +291,5 @@ Client.on("message",message =>{
         }
    
     });
-Client.login("1NzY3OTk0NDA3NjQ5MzIw.YBfr7A.dyMlTw9unZbCH4Hbm1TwgzymN5Y");
+Client.login(process.env.TOKEN);
 
-//Client.login("ODA2NDQ2MjU3NDc5NzQ1NTM2.YBpjmg.gjQFHpzDq0XqgNbb7gZujF30Wh8");
